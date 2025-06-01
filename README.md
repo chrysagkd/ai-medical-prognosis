@@ -9,7 +9,11 @@ This repository contains tools and examples for medical prognosis using artifici
 
 **survival_analysis_assignment.py**: Performs survival analysis using Cox Proportional Hazards and Random Forest models on mock patient data.
 
+
+
 **Script Descriptions**
+
+
 **1. prognosis_feature_engineering.py**
 Creates synthetic medical data (age, systolic blood pressure, cholesterol).
 
